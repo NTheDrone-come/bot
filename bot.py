@@ -23,7 +23,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 # 1. КОНФИГУРАЦИЯ И ОЖИВИТЕЛЬ ДЛЯ RENDER
 # ==========================================
 
-TOKEN = "8519096046:AAFPwqAigHoBkasZ595iESWsSuvrBincYUo"
+TOKEN = "8568173258:AAEPKVdX8hMhPzRGwiXoUmbpgGrWRYxDeJA"
 
 # Мини-сервер Flask для обмана Render
 app = Flask('')
