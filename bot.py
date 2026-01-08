@@ -28,7 +28,7 @@ from aiogram.exceptions import TelegramBadRequest
 # 1. КОНФИГУРАЦИЯ
 # ==========================================
 
-TOKEN = "8519096046:AAFPwqAigHoBkasZ595iESWsSuvrBincYUo" 
+TOKEN = "8568173258:AAEPKVdX8hMhPzRGwiXoUmbpgGrWRYxDeJA" 
 
 # Имя файла для базы данных
 DB_FILE = "komandi.json" 
