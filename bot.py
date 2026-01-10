@@ -7,7 +7,7 @@ import random
 from contextlib import suppress
 
 # --- Прямая вставка данных ---
-TOKEN = "8568173258:AAEPKVdX8hMhPzRGwiXoUmbpgGrWRYxDeJA"
+TOKEN = "8568173258:AAHp8RlMrBhhUj-98ewTZVWZxoyHjX6v4bo"
 MONGO_URL = "mongodb+srv://tembarmod_db_user:1234rrrr@cluster0.cevnzjz.mongodb.net/?appName=Cluster0"
 
 try:
